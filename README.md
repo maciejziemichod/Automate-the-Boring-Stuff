@@ -1,2 +1,2 @@
-# Automate-the-Boring-Stuff-
-Projects from this course
+# Automate-the-Boring-Stuff
+Some projects from this course
